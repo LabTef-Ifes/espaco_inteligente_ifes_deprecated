@@ -1,5 +1,7 @@
 # ESPAÇO INTELIGENTE - IFES - CAMPUS VITÓRIA
 
+**Observação:** Esta é uma versão desatualizada (porém funcional) do espaço inteligente do Ifes Vitória. O repositório mais atualizado pode ser encontrado [aqui](https://github.com/LabTef-Ifes/espaco_inteligente_ifes).
+
 ![Reconstrução tridimensional](https://github.com/wyctorfogos/ESPACOINTELIGENTE-IFES/blob/main/caminhada.gif)
 
 Antes de tudo, instale as bibliotecas necessárias que se encontram descritas no arquivos requiremensts.txt através do comando 'pip install -r requirements.txt'.
