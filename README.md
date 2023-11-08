@@ -1,6 +1,6 @@
-# ESPAÇO INTELIGENTE - IFES - CAMPUS VITÓRIA
+**Observação:** Esta é uma versão desatualizada (porém funcional) do espaço inteligente do Ifes Vitória. Decidimos manter esta versão em nosso repositório para eventuais consultas. O repositório mais atualizado pode ser encontrado [aqui](https://github.com/LabTef-Ifes/espaco_inteligente_ifes).
 
-**Observação:** Esta é uma versão desatualizada (porém funcional) do espaço inteligente do Ifes Vitória. O repositório mais atualizado pode ser encontrado [aqui](https://github.com/LabTef-Ifes/espaco_inteligente_ifes).
+# ESPAÇO INTELIGENTE - IFES - CAMPUS VITÓRIA
 
 ![Reconstrução tridimensional](https://github.com/wyctorfogos/ESPACOINTELIGENTE-IFES/blob/main/caminhada.gif)
 
